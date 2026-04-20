@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @Yashwanth-samala17
-- 👀 I’m interested in web development...
-- 🌱 I’m currently learning React...
-- 💞️ I’m looking to collaborate on a Real Projects...
-- 📫 How to reach me through whatsapp - +917981825192
-  
-<!---
-Yashwanth-samala17/Yashwanth-samala17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I’m Yashwanth!
+
+### 🔭 Currently Focused On
+- **Re-skilling:** Moving away from my old stack and diving deep into **React** and **Modern Web Development**.
+- **Machine Learning:** Exploring practical applications and staying up to date with AI trends.
+- **Open Source:** Looking to contribute to real-world projects to sharpen my coding habits.
+
+### 🛠️ Current Toolbox
+* **Languages:** Python, JavaScript
+* **Libraries:** React.js
+* **Learning:** System Design & Scalable Architectures
+
+### 📫 Let's Connect
+- **WhatsApp:** [+917981825192](https://wa.me/917981825192)
+- **GitHub Stats:**
+![Yashwanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashwanth-samala17&show_icons=true&theme=dark)
+
+---
+*"The best time to start was yesterday. The second best time is now."*
