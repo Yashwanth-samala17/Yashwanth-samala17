@@ -6,9 +6,9 @@
 - **Open Source:** Looking to contribute to real-world projects to sharpen my coding habits.
 
 ### 🛠️ Current Toolbox
-* **Languages:** Python, JavaScript
-* **Libraries:** React.js
-* **Learning:** System Design & Scalable Architectures
+* **Languages:** Python, Java, JavaScript
+* **Libraries:** React.js, ML libraries like Numpy, Pandas, MatplotLib, Seaborn
+* **Learning:** Database & Scalable Architectures
 
 ### 📫 Let's Connect
 - **WhatsApp:** [+917981825192](https://wa.me/917981825192)
