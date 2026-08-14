@@ -14,6 +14,6 @@
 - **WhatsApp:** [+917981825192](https://wa.me/917981825192)
 - **GitHub Stats:**
 ![Yashwanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashwanth-samala17&show_icons=true&theme=dark)
-
+- **E-mail: samalayash95@gmail.com**
 ---
 *"The best time to start was yesterday. The second best time is now."*
