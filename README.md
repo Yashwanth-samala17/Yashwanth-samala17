@@ -8,7 +8,7 @@
 ### 🛠️ Current Toolbox
 * **Languages:** Python, Java, JavaScript
 * **Libraries:** React.js, ML libraries like Numpy, Pandas, MatplotLib, Seaborn
-* **Learning:** Database & Scalable Architectures
+* **Learning:** Database, ML models & Scalable Architectures
 
 ### 📫 Let's Connect
 - **WhatsApp:** [+917981825192](https://wa.me/917981825192)
