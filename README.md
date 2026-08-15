@@ -6,7 +6,7 @@
 - **Open Source:** Looking to contribute to real-world projects to sharpen my coding habits.
 
 ### 🛠️ Current Toolbox
-* **Languages:** Python, Java, JavaScript
+* **Languages:** Python, Java, JavaScript, SQL
 * **Libraries:** React.js, ML libraries like Numpy, Pandas, MatplotLib, Seaborn
 * **Learning:** Database, ML models & Scalable Architectures
 
